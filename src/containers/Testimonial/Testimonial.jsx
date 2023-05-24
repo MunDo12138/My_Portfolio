@@ -32,6 +32,8 @@ const Testimonial = () => {
 
   return (
     <>
+      <h2 className='head-text'>Education</h2>
+
       {testimonials.length && (
         <>
           <div className='app__testimonial-item app__flex'>
