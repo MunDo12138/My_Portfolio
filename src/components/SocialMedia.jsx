@@ -6,7 +6,7 @@ const SocialMedia = () => {
   return (
     <div className='app__social'>
         <div>
-          <Link to="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:83ba7da6-d281-39c9-b5ee-9652119a6900" target="_blank" rel="noopener noreferrer">
+          <Link to="https://acrobat.adobe.com/id/urn:aaid:sc:ap:9558af8a-8d04-4b6f-8517-54445868bd56" target="_blank" rel="noopener noreferrer">
             <BsPersonFill />
           </Link>
         </div>
