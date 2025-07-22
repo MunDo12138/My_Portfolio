@@ -148,8 +148,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Tommy Li**
 - Role: IT Analyst & App Developer
-- Portfolio: [Live Demo](tommyli.info)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/hungleongli/)
+- Portfolio: [Live Demo](https://www.tommyli.info)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/hungleongli/)
 - Email: [lihungleong623@gmail.com](mailto:lihungleong623@gmail.com)
 
 ---
