@@ -10,7 +10,7 @@ I'm a dedicated developer with expertise in full-stack development, mobile appli
 - 🌱 Always learning and exploring new technologies
 - 💼 IT Analyst with development background
 - 🎯 Focused on creating user-centric applications
-- 📍 Based in [Your Location]
+- 📍 Based in Calgary
 
 ## 🛠️ Tech Stack & Skills
 
