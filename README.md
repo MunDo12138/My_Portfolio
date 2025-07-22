@@ -1,153 +1,107 @@
-# My Portfolio Website
+# Hi there, I'm Tommy Li 👋
 
-A modern, responsive portfolio website built with React.js and powered by Sanity CMS. This single-page application showcases professional experience, skills, projects, and testimonials with smooth animations and an elegant design.
+**IT Analyst & App Developer** passionate about creating innovative solutions and building exceptional user experiences.
 
-## 🚀 Features
+## 🚀 About Me
 
-- **Responsive Design**: Optimized for all device sizes and screen resolutions
-- **Smooth Animations**: Powered by Framer Motion for engaging user interactions
-- **Content Management**: Dynamic content management through Sanity CMS
-- **Modern UI/UX**: Clean, professional design with smooth scrolling navigation
-- **Performance Optimized**: Built with React 18 and optimized for fast loading
-- **Analytics Integration**: Vercel Analytics for performance monitoring
+I'm a dedicated developer with expertise in full-stack development, mobile applications, and modern web technologies. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me exploring new technologies and contributing to open-source projects.
 
-## 🛠️ Tech Stack
+- 🔭 Currently working on innovative web and mobile applications
+- 🌱 Always learning and exploring new technologies
+- 💼 IT Analyst with strong development background
+- 🎯 Focused on creating user-centric applications
+- 📍 Based in [Your Location]
 
-- **Frontend**: React 18, JavaScript (ES6+)
-- **Styling**: SCSS/Sass for modular and maintainable styles
-- **Animations**: Framer Motion for smooth transitions and interactions
-- **CMS**: Sanity.io for content management
-- **Icons**: React Icons library
-- **Routing**: React Router DOM
-- **Analytics**: Vercel Analytics
-- **Build Tool**: Create React App
+## 🛠️ Tech Stack & Skills
 
-## 📁 Project Structure
+**Frontend Development**
+- React.js, JavaScript (ES6+), HTML5, CSS3
+- SCSS/Sass, Responsive Design
+- Framer Motion, React Router DOM
 
-```
-src/
-├── components/          # Reusable UI components
-│   ├── Navbar/         # Navigation component
-│   ├── NavigationDots.jsx
-│   └── SocialMedia.jsx
-├── containers/         # Main page sections
-│   ├── About/          # About section
-│   ├── Footer/         # Footer section
-│   ├── Header/         # Hero/landing section
-│   ├── Skills/         # Skills showcase
-│   ├── Testimonial/    # Client testimonials
-│   └── Work/           # Portfolio projects
-├── assets/             # Static assets (images, icons)
-├── constants/          # Application constants
-├── wrapper/            # Higher-order components
-├── App.js              # Main application component
-├── App.scss            # Global styles
-├── client.js           # Sanity CMS configuration
-└── index.js            # Application entry point
-```
+**Backend & Database**
+- Node.js, Express.js
+- Sanity CMS, Content Management Systems
+- RESTful APIs, Database Design
 
-## 🚦 Getting Started
+**Tools & Technologies**
+- Git, GitHub, Version Control
+- Vercel, Netlify, Deployment Platforms
+- Analytics Integration, Performance Optimization
 
-### Prerequisites
+## �  GitHub Stats
 
-- Node.js (version 14 or higher)
-- npm or yarn package manager
-- Sanity.io account and project setup
+![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MunDo12138&show_icons=true&theme=radical)
 
-### Installation
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MunDo12138&layout=compact&theme=radical)
 
-1. **Clone the repository**
-   ```bash
-   git clone [repository-url]
-   cd portfolio
-   ```
+## 🚀 Featured Projects & Repositories
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+### 🌟 Portfolio & Web Development
+- **[Portfolio Website](https://github.com/MunDo12138/portfolio)** - Modern React portfolio with Sanity CMS
+- **[React Projects](https://github.com/MunDo12138?tab=repositories&q=react)** - Collection of React applications and components
 
-3. **Environment Setup**
-   
-   Create a `.env` file in the root directory and add your Sanity credentials:
-   ```env
-   REACT_APP_SANITY_PROJECT_ID=your_project_id
-   REACT_APP_SANITY_TOKEN=your_sanity_token
-   ```
+### 💻 Full-Stack Applications
+- **[Web Applications](https://github.com/MunDo12138?tab=repositories&q=app)** - Various web applications and tools
+- **[JavaScript Projects](https://github.com/MunDo12138?tab=repositories&q=javascript)** - JavaScript-based projects and utilities
 
-4. **Start the development server**
-   ```bash
-   npm start
-   ```
+### 🔧 Development Tools & Utilities
+- **[Development Tools](https://github.com/MunDo12138?tab=repositories&q=tool)** - Custom development tools and scripts
+- **[Open Source Contributions](https://github.com/MunDo12138?tab=repositories&type=public)** - Public repositories and contributions
 
-   The application will open at `http://localhost:3000`
+### 📱 Mobile & Cross-Platform
+- **[Mobile Applications](https://github.com/MunDo12138?tab=repositories&q=mobile)** - Mobile app development projects
+- **[Cross-Platform Solutions](https://github.com/MunDo12138?tab=repositories&q=cross)** - Multi-platform applications
 
-### Build for Production
+## 🎯 Current Focus
 
-```bash
-npm run build
-```
+- 🔨 Building scalable web applications with modern frameworks
+- 📱 Developing cross-platform mobile solutions
+- 🌐 Contributing to open-source projects
+- 📚 Exploring new technologies and best practices
+- 🤝 Collaborating with fellow developers
 
-This creates an optimized production build in the `build` folder.
+## 🏆 Achievements & Highlights
 
-## 🎨 Sections Overview
+- ✅ Successfully deployed multiple production applications
+- ✅ Contributed to various open-source projects
+- ✅ Built responsive, user-friendly interfaces
+- ✅ Implemented efficient backend solutions
+- ✅ Maintained high code quality standards
 
-- **Header/Hero**: Introduction with animated profile and tech stack highlights
-- **About**: Personal background and professional summary  
-- **Skills**: Technical skills and expertise showcase
-- **Work**: Portfolio of projects and achievements
-- **Testimonials**: Client feedback and recommendations
-- **Footer**: Contact information and social media links
+## 🌐 Connect With Me
 
-## 🔧 Configuration
+**Tommy Li** - IT Analyst & App Developer
 
-### Sanity CMS Setup
+[![Portfolio](https://img.shields.io/badge/Portfolio-tommyli.info-blue?style=for-the-badge&logo=google-chrome)](https://www.tommyli.info)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hungleongli-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hungleongli/)
+[![GitHub](https://img.shields.io/badge/GitHub-MunDo12138-black?style=for-the-badge&logo=github)](https://github.com/MunDo12138)
+[![Email](https://img.shields.io/badge/Email-lihungleong623@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:lihungleong623@gmail.com)
 
-The project uses Sanity.io as a headless CMS for content management. The configuration is located in `src/client.js`:
+## 📈 All My Repositories
 
-- **Project ID**: Set via `REACT_APP_SANITY_PROJECT_ID`
-- **Dataset**: Uses 'production' dataset
-- **API Version**: 2023-04-01
-- **CDN**: Enabled for optimized image delivery
+🔗 **[View All Repositories](https://github.com/MunDo12138?tab=repositories)** - Explore my complete collection of projects, tools, and contributions
 
-### Styling
+### Repository Categories:
+- **Web Development**: React, JavaScript, HTML/CSS projects
+- **Mobile Applications**: Cross-platform and native mobile apps
+- **Backend Services**: APIs, databases, and server-side applications
+- **Development Tools**: Utilities, scripts, and automation tools
+- **Open Source**: Public contributions and collaborative projects
+- **Learning Projects**: Educational and experimental repositories
 
-The project uses SCSS for styling with a modular approach:
-- Global styles in `App.scss` and `index.css`
-- Component-specific styles in respective folders
-- Responsive design patterns throughout
+## 💡 Let's Collaborate!
 
-## 📱 Responsive Design
+I'm always interested in:
+- 🤝 Collaborating on innovative projects
+- 💬 Discussing new technologies and best practices
+- 🚀 Contributing to open-source initiatives
+- 📚 Sharing knowledge and learning from others
 
-The portfolio is fully responsive and optimized for:
-- Desktop (1200px+)
-- Tablet (768px - 1199px)
-- Mobile (320px - 767px)
-
-## 🚀 Deployment
-
-The project is optimized for deployment on platforms like:
-- Vercel (recommended)
-- Netlify
-- GitHub Pages
-- Any static hosting service
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📞 Contact
-
-**Tommy Li**
-- Role: IT Analyst & App Developer
-- Portfolio: [Live Demo](https://www.tommyli.info)
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/hungleongli/)
-- Email: [lihungleong623@gmail.com](mailto:lihungleong623@gmail.com)
+Feel free to reach out if you'd like to work together or just chat about technology!
 
 ---
 
-Built with ❤️ using React and Sanity CMS
+⭐ **If you find my work interesting, please consider giving my repositories a star!**
+
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
