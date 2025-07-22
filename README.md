@@ -29,29 +29,27 @@ I'm a dedicated developer with expertise in full-stack development, mobile appli
 - Vercel, Netlify, Deployment Platforms
 - Analytics Integration, Performance Optimization
 
-## �  GitHub Stats
-
-![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MunDo12138&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MunDo12138&layout=compact&theme=radical)
 
 ## 🚀 Featured Projects & Repositories
 
 ### 🌟 Portfolio & Web Development
-- **[Portfolio Website](https://github.com/MunDo12138/portfolio)** - Modern React portfolio with Sanity CMS
-- **[React Projects](https://github.com/MunDo12138?tab=repositories&q=react)** - Collection of React applications and components
+- **[Portfolio Website](https://www.tommyli.info/)** - Modern React portfolio with Sanity CMS
+- **[React Projects](https://github.com/MunDo12138/Job_Board_React_Native_APP)** - Collection of React applications and components
 
 ### 💻 Full-Stack Applications
-- **[Web Applications](https://github.com/MunDo12138?tab=repositories&q=app)** - Various web applications and tools
-- **[JavaScript Projects](https://github.com/MunDo12138?tab=repositories&q=javascript)** - JavaScript-based projects and utilities
+- **[Web Applications](https://github.com/MunDo12138/Dashboard)** - Various web applications and tools
+- **[JavaScript Projects](https://github.com/MunDo12138/E-Commerce_Sanity_Stripe)** - JavaScript-based projects and utilities
 
 ### 🔧 Development Tools & Utilities
-- **[Development Tools](https://github.com/MunDo12138?tab=repositories&q=tool)** - Custom development tools and scripts
-- **[Open Source Contributions](https://github.com/MunDo12138?tab=repositories&type=public)** - Public repositories and contributions
+- **[Development Tools](https://github.com/MunDo12138/Image_Resizer_Electron_Desktop)** - Custom development tools and scripts
+- **[Open Source Contributions](https://github.com/MunDo12138/E-Commerce_Sanity_Stripe)** - Public repositories and contributions
 
 ### 📱 Mobile & Cross-Platform
-- **[Mobile Applications](https://github.com/MunDo12138?tab=repositories&q=mobile)** - Mobile app development projects
-- **[Cross-Platform Solutions](https://github.com/MunDo12138?tab=repositories&q=cross)** - Multi-platform applications
+- **[Mobile Applications](https://github.com/MunDo12138/Job_Board_React_Native_APP)** - Mobile app development projects
+- **[Cross-Platform Solutions](https://github.com/MunDo12138/Job_Board_React_Native_APP)** - Multi-platform applications
 
 ## 🎯 Current Focus
 
