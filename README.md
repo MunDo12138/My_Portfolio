@@ -8,7 +8,7 @@ I'm a dedicated developer with expertise in full-stack development, mobile appli
 
 - 🔭 Currently working on innovative web and mobile applications
 - 🌱 Always learning and exploring new technologies
-- 💼 IT Analyst with strong development background
+- 💼 IT Analyst with development background
 - 🎯 Focused on creating user-centric applications
 - 📍 Based in [Your Location]
 
